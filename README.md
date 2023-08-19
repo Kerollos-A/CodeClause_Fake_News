@@ -1,2 +1,3 @@
 # CodeClause_Projects
-First project I completed during my internship at CodeClause
+The first task I finished while working as an intern at CodeClause
+
